@@ -1,4 +1,3 @@
-Readme · MD
 # Rossmann Promotion Analysis
  
 ## Overview
